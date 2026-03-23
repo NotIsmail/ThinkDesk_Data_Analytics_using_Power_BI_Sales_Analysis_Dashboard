@@ -1,0 +1,31 @@
+Date,Product,Category,Region,Salesperson,CustomerSegment,Quantity,SalesAmount,Profit,Target
+01-01-2024,Laptop,Electronics,North,Arun,Consumer,2,120000,20000,100000
+02-01-2024,Phone,Electronics,South,Priya,Corporate,5,80000,15000,75000
+03-01-2024,Chair,Furniture,East,Rahul,Consumer,10,30000,5000,25000
+04-01-2024,Table,Furniture,West,Sneha,Home Office,3,45000,8000,40000
+05-01-2024,Laptop,Electronics,North,Arun,Corporate,1,60000,12000,55000
+06-01-2024,Phone,Electronics,South,Priya,Consumer,4,64000,10000,60000
+07-01-2024,Chair,Furniture,East,Rahul,Home Office,6,18000,3000,15000
+08-01-2024,Table,Furniture,West,Sneha,Consumer,2,30000,6000,28000
+09-01-2024,Laptop,Electronics,North,Arun,Consumer,3,180000,30000,160000
+10-01-2024,Phone,Electronics,South,Priya,Corporate,6,96000,20000,90000
+11-01-2024,Chair,Furniture,East,Rahul,Consumer,8,24000,4000,20000
+12-01-2024,Table,Furniture,West,Sneha,Home Office,4,60000,9000,55000
+13-01-2024,Laptop,Electronics,North,Arun,Corporate,2,120000,22000,110000
+14-01-2024,Phone,Electronics,South,Priya,Consumer,3,48000,8000,45000
+15-01-2024,Chair,Furniture,East,Rahul,Home Office,7,21000,3500,18000
+16-01-2024,Table,Furniture,West,Sneha,Consumer,5,75000,12000,70000
+17-01-2024,Laptop,Electronics,North,Arun,Consumer,1,60000,10000,55000
+18-01-2024,Phone,Electronics,South,Priya,Corporate,4,64000,12000,60000
+19-01-2024,Chair,Furniture,East,Rahul,Consumer,9,27000,4500,24000
+20-01-2024,Table,Furniture,West,Sneha,Home Office,3,45000,7000,42000
+21-01-2024,Laptop,Electronics,North,Arun,Corporate,2,120000,20000,100000
+22-01-2024,Phone,Electronics,South,Priya,Consumer,5,80000,15000,75000
+23-01-2024,Chair,Furniture,East,Rahul,Consumer,6,18000,3000,15000
+24-01-2024,Table,Furniture,West,Sneha,Home Office,4,60000,9000,55000
+25-01-2024,Laptop,Electronics,North,Arun,Consumer,3,180000,28000,150000
+26-01-2024,Phone,Electronics,South,Priya,Corporate,2,32000,5000,30000
+27-01-2024,Chair,Furniture,East,Rahul,Home Office,5,15000,2500,12000
+28-01-2024,Table,Furniture,West,Sneha,Consumer,6,90000,15000,85000
+29-01-2024,Laptop,Electronics,North,Arun,Corporate,1,60000,9000,55000
+30-01-2024,Phone,Electronics,South,Priya,Consumer,7,112000,22000,100000
