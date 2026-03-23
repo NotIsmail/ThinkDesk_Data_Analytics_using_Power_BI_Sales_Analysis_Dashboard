@@ -86,6 +86,9 @@ Sales vs Target KPI shows whether the company met its target.
 ## Files in This Repository
 
 sales_data.csv → Dataset used
+
 Sales_Dashboard.pbix → Power BI dashboard file
+
 README.md → Project documentation
+
 Project_Statement.pdf → Assignment description
